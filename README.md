@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MylonasDimitris/github-readme-stats">
-    <img src="https://github-readme-stats-drab-beta-74.vercel.app/api?username=MylonasDimitris&theme=radical&hide_rank=true" />
+    <img src="https://github-readme-stats-drab-beta-74.vercel.app/api?username=MylonasDimitris&theme=radical&hide_rank=true&card_width=320" />
   </a>
   <br />
   <a href="https://github.com/MylonasDimitris/convoychat">
