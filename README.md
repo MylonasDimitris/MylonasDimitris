@@ -1,4 +1,4 @@
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MylonasDimitris/MylonasDimitris/output/dist/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake - Dark](https://raw.githubusercontent.com/MylonasDimitris/MylonasDimitris/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <a href="https://github.com/MylonasDimitris/convoychat">
