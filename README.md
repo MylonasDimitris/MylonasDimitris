@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-drab-beta-74.vercel.app/api/top-langs/?username=MylonasDimitris&langs_count=8&theme=radical)
+
 <a href="https://github.com/MylonasDimitris/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-drab-beta-74.vercel.app/api?username=anuraghazra" />
 </a>
