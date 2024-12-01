@@ -15,4 +15,5 @@
 
 <!---
 ![GitHub Contribution Snake - Dark](https://raw.githubusercontent.com/MylonasDimitris/MylonasDimitris/output/github-contribution-grid-snake-dark.svg)
+:)
 -->
